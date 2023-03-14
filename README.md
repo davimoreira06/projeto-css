@@ -4,7 +4,7 @@
 
 https://github.com/davimoreira06/we-care
 
-Landing page básica com responsividade utilizando HTML e CSS. 
+Landing page com responsividade utilizando HTML e CSS. 
 
 <hr>
 
