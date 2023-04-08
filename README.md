@@ -6,21 +6,21 @@ https://github.com/davimoreira06/we-care
 
 Landing page com responsividade utilizando HTML e CSS. 
 
-<hr>
+#
 
 ## Layout web 
 <br>
 
 <img src="./img/we-care-web.png">
 
-<hr>
+#
 
 ## Layout mobile 
 <br>
 
 <img src="./img/we-care-mobile.png" width=250>
 
-<hr>
+#
 
 ## Tecnologia utilizadas 
 
@@ -29,7 +29,7 @@ Landing page com responsividade utilizando HTML e CSS.
 - HTML 
 - CSS
 
-<hr>
+#
 
 ## Autor
 
